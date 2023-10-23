@@ -5,3 +5,4 @@ horse
 rat
 tiger
 wolf
+frog
