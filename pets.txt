@@ -6,3 +6,4 @@ rat
 tiger
 wolf
 frog
+panther
