@@ -3,3 +3,5 @@ dog
 parrot
 horse
 rat
+tiger
+wolf
